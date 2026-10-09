@@ -1,0 +1,19 @@
+1 Parrot
+
+2 Peacock
+
+3 Sparrow
+
+4 Pigeon
+
+5 Eagle
+
+6 Crow
+
+7 Kingfisher
+
+8 Owl
+
+9 Swan
+
+10 Woodpecker
